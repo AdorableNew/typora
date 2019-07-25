@@ -7,6 +7,7 @@ typora 笔记仓库
 |      |      |      |
 |      |      |      |
 
+```
 .
 ├── .idea                   // IDEA 配置
 ├── client                  // 客户端(自测, 性能测试, 机器人)
@@ -35,3 +36,4 @@ typora 笔记仓库
 ├── gradlew.bat             // gradle 脚本
 ├── README.md               // 项目入口文档
 └── settings.gradle         // gradle 配置
+```
